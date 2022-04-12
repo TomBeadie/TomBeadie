@@ -1,7 +1,8 @@
 <!-- [![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic82)](https://github.com/Atomic82/github-readme-stats) -->
 <!-- ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic82&show_icons=true) -->
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic82&show_icons=true&theme=chartreuse-dark)
-![Atomic82Logo](https://user-images.githubusercontent.com/91224202/163055483-1742d0f0-58b4-441b-8ce6-5a4a048cc260.png)
+![Atomic82Logo![Uploading Atomic82Logo.png…]()
+](https://user-images.githubusercontent.com/91224202/163055483-1742d0f0-58b4-441b-8ce6-5a4a048cc260.png)
 
 # Technologies
 ----

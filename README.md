@@ -1,7 +1,6 @@
 <!-- [![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic82)](https://github.com/Atomic82/github-readme-stats) -->
 <!-- ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic82&show_icons=true) -->
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic82&show_icons=true&theme=chartreuse-dark)
-<img width="65" alt="Atomic82Logo" src="https://user-images.githubusercontent.com/91224202/163055715-7c32fed7-7203-4c20-b72f-baad3b2328c1.png">
 
 
 # Technologies

@@ -2,6 +2,9 @@
 <!-- ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic82&show_icons=true) -->
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic82&show_icons=true&theme=chartreuse-dark)
 
+[Portfolio](https://www.tombeadie.com/)
+[LinkedIn](https://www.linkedin.com/in/tombeadie/)
+[Freelance](https://www.atomic82.com/)
 
 # Technologies
 ----

@@ -1,5 +1,3 @@
-![NerfWar](https://user-images.githubusercontent.com/91224202/163691914-2b40e0c8-9cfc-40b8-bb5d-f000c7f6d5c8.png)
-
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic82&show_icons=true&theme=chartreuse-dark)
 
 [Portfolio](https://www.tombeadie.com/)

@@ -1,4 +1,4 @@
-![Duck](https://user-images.githubusercontent.com/91224202/163691796-40d8879b-4c69-4720-a831-3fbaf90f38de.jpeg)
+![49112E51-E7B7-4486-B814-FBBE51553B54](https://user-images.githubusercontent.com/91224202/163691816-c4c44f8d-28d3-4647-97b6-139720b23687.JPG)
 
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic82&show_icons=true&theme=chartreuse-dark)
 

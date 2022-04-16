@@ -1,5 +1,5 @@
-<!-- [![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic82)](https://github.com/Atomic82/github-readme-stats) -->
-<!-- ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic82&show_icons=true) -->
+![Duck](https://user-images.githubusercontent.com/91224202/163691796-40d8879b-4c69-4720-a831-3fbaf90f38de.jpeg)
+
 ![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic82&show_icons=true&theme=chartreuse-dark)
 
 [Portfolio](https://www.tombeadie.com/)

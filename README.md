@@ -1,4 +1,4 @@
-![Tom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atomic82&show_icons=true&theme=chartreuse-dark)
+
 
 [Freelance // Portfolio](https://www.atomic82.com/)
 

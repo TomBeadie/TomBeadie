@@ -11,3 +11,4 @@
 ![JavaScript](https://a11ybadges.com/badge?logo=javascript)
 ![React](https://a11ybadges.com/badge?logo=react)
 ![TypeScript](https://a11ybadges.com/badge?logo=typescript)
+![Node.js](https://a11ybadges.com/badge?logo=node.js)

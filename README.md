@@ -16,3 +16,5 @@
 ![Notion](https://a11ybadges.com/badge?logo=notion)
 ![Slack](https://a11ybadges.com/badge?logo=slack)
 ![Adobe Lightroom](https://a11ybadges.com/badge?logo=adobelightroom)
+![Bootstrap](https://a11ybadges.com/badge?logo=bootstrap)
+![SCSS](https://a11ybadges.com/badge?logo=scss)

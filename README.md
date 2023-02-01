@@ -19,5 +19,5 @@
 ![Slack](https://a11ybadges.com/badge?logo=slack)
 ![Adobe Lightroom](https://a11ybadges.com/badge?logo=adobelightroom)
 ![Bootstrap](https://a11ybadges.com/badge?logo=bootstrap)
-![SCSS](https://a11ybadges.com/badge?logo=scss)
+![Sass](https://a11ybadges.com/badge?logo=sass)
 ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss)

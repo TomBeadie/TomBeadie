@@ -14,6 +14,7 @@
 ![Slack](https://a11ybadges.com/badge?logo=slack)
 ![Adobe Lightroom](https://a11ybadges.com/badge?logo=adobelightroom)
 ![Adobe Photoshop](https://a11ybadges.com/badge?logo=adobephotoshop)
+![Adobe Illustrator](https://a11ybadges.com/badge?logo=adobeillustrator)
 ![Bootstrap](https://a11ybadges.com/badge?logo=bootstrap)
 ![Sass](https://a11ybadges.com/badge?logo=sass)
 ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss)

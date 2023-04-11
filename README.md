@@ -10,6 +10,8 @@
 ![HTML5](https://a11ybadges.com/badge?logo=html5)
 ![CSS3](https://a11ybadges.com/badge?logo=css3)
 ![JavaScript](https://a11ybadges.com/badge?logo=javascript)
+![React](https://a11ybadges.com/badge?logo=react)
+![TypeScript](https://a11ybadges.com/badge?logo=typescript)
 ![Notion](https://a11ybadges.com/badge?logo=notion)
 ![Slack](https://a11ybadges.com/badge?logo=slack)
 ![Adobe Lightroom](https://a11ybadges.com/badge?logo=adobelightroom)
@@ -18,3 +20,4 @@
 ![Bootstrap](https://a11ybadges.com/badge?logo=bootstrap)
 ![Sass](https://a11ybadges.com/badge?logo=sass)
 ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss)
+

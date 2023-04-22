@@ -30,10 +30,5 @@
 ![Notion](https://a11ybadges.com/badge?logo=notion)
 ![Signal](https://a11ybadges.com/badge?logo=signal)
 
-# Learning
-----
-![React](https://a11ybadges.com/badge?logo=react)
-![TypeScript](https://a11ybadges.com/badge?logo=typescript)
-
 # Work
 ----

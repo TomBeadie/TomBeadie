@@ -22,6 +22,10 @@
 ![Wix](https://a11ybadges.com/badge?logo=wix)
 ![WordPress](https://a11ybadges.com/badge?logo=wordpress)
 
+# Learning
+----
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+
 # Environment
 ----
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)

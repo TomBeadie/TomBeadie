@@ -5,7 +5,6 @@
 # Skills
 ----
 ![Webflow](https://a11ybadges.com/badge?logo=webflow)
-![Shopify](https://a11ybadges.com/badge?logo=shopify)
 ![Figma](https://a11ybadges.com/badge?logo=figma)
 ![HTML5](https://a11ybadges.com/badge?logo=html5)
 ![CSS3](https://a11ybadges.com/badge?logo=css3)
@@ -19,7 +18,6 @@
 ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Wix](https://a11ybadges.com/badge?logo=wix)
 ![WordPress](https://a11ybadges.com/badge?logo=wordpress)
 
 # Learning

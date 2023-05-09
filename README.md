@@ -34,6 +34,7 @@
 
 # Work
 ----
-![Elwood's Drive Thru](https://github.com/Atomic82/Atomic82/assets/91224202/cff60935-dccb-4232-a1da-3a98ed16397d) A coffee shop in Palmer, AK https://www.elwoodsdrivethru.com/
+![Elwood's Drive Thru](https://github.com/Atomic82/Atomic82/assets/91224202/895dcfae-0c59-4fc9-a35e-9e5d71983fa9)
+ A coffee shop in Palmer, AK https://www.elwoodsdrivethru.com/
 
 

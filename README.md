@@ -34,6 +34,6 @@
 
 # Work
 ----
-![Elwood's Drive Thru](<img width="260" alt="ELWOODS STACKED BADGE-RGB FOR WEB" src="https://github.com/Atomic82/Atomic82/assets/91224202/cff60935-dccb-4232-a1da-3a98ed16397d">) A coffee shop in Palmer, AK https://www.elwoodsdrivethru.com/
+![Elwood's Drive Thru](https://github.com/Atomic82/Atomic82/assets/91224202/cff60935-dccb-4232-a1da-3a98ed16397d) A coffee shop in Palmer, AK https://www.elwoodsdrivethru.com/
 
 

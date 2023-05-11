@@ -5,6 +5,7 @@
 # Skills
 ----
 ![Webflow](https://a11ybadges.com/badge?logo=webflow)
+![Framer](https://a11ybadges.com/badge?logo=framer)
 ![Figma](https://a11ybadges.com/badge?logo=figma)
 ![HTML5](https://a11ybadges.com/badge?logo=html5)
 ![CSS3](https://a11ybadges.com/badge?logo=css3)

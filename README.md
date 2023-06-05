@@ -1,6 +1,6 @@
 
-
-[Freelance // Portfolio](https://www.atomic82.com/)
+[Portfolio]()
+[Freelance](https://www.atomic82.com/)
 
 # Skills
 ----

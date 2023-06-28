@@ -3,8 +3,8 @@
 
 [Freelance](https://www.atomic82.com/)
 
-<script type="module" src="https://unpkg.com/@splinetool/viewer@0.9.374/build/spline-viewer.js"></script>
-<spline-viewer loading-anim url="https://prod.spline.design/SWHxHCvqcdvMtqt5/scene.splinecode"></spline-viewer>
+
+<iframe src='https://my.spline.design/untitled-e4fa7ffac333dec971e3e0880669c819/' frameborder='0' width='100%' height='100%'></iframe>
 
 # Skills
 ----

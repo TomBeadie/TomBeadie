@@ -3,6 +3,9 @@
 
 [Freelance](https://www.atomic82.com/)
 
+<script type="module" src="https://unpkg.com/@splinetool/viewer@0.9.374/build/spline-viewer.js"></script>
+<spline-viewer loading-anim url="https://prod.spline.design/SWHxHCvqcdvMtqt5/scene.splinecode"></spline-viewer>
+
 # Skills
 ----
 ![Webflow](https://a11ybadges.com/badge?logo=webflow)

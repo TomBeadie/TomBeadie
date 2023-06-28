@@ -3,8 +3,7 @@
 
 [Freelance](https://www.atomic82.com/)
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
-
+![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://giphy.com/embed/Y3AM9v99YSr3rFGaHF))
 
 
 # Skills

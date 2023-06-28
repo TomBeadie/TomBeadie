@@ -4,11 +4,8 @@
 [Freelance](https://www.atomic82.com/)
 
 
-import { Application } from '@splinetool/runtime';
-
-const canvas = document.getElementById('canvas3d');
-const app = new Application(canvas);
-app.load('https://prod.spline.design/SWHxHCvqcdvMtqt5/scene.splinecode');
+<script type="module" src="https://unpkg.com/@splinetool/viewer@0.9.374/build/spline-viewer.js"></script>
+<spline-viewer loading-anim url="https://prod.spline.design/SWHxHCvqcdvMtqt5/scene.splinecode"></spline-viewer>
 
 
 # Skills

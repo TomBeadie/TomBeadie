@@ -3,9 +3,15 @@
 
 [Freelance](https://www.atomic82.com/)
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media.giphy.com/media/Y3AM9v99YSr3rFGaHF/giphy.gif))
+![Alt Text](https://media.giphy.com/media/Y3AM9v99YSr3rFGaHF/giphy.gif)
+<br>
+<img src="https://media.giphy.com/media/Y3AM9v99YSr3rFGaHF/giphy.gif" width="40" height="40" />
 
-https://giphy.com/gifs/transparent-Y3AM9v99YSr3rFGaHF?flagAndFilters=[{%22flag%22:%22VERIFIED%22,%22value%22:true}]&videos=ON
+
+
+
+
+https://media.giphy.com/media/Y3AM9v99YSr3rFGaHF/giphy.gif
 
 # Skills
 ----

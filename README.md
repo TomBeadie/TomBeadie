@@ -3,7 +3,7 @@
 
 [Freelance](https://www.atomic82.com/)
 
-![Alt Text](https://media.giphy.com/media/Y3AM9v99YSr3rFGaHF/giphy.gif)
+![Spinning A82 animation](https://media.giphy.com/media/Y3AM9v99YSr3rFGaHF/giphy.gif)
 
 <!--
 <br>

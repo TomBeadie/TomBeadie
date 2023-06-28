@@ -3,7 +3,7 @@
 
 [Freelance](https://www.atomic82.com/)
 
-![A82](https://my.spline.design/untitled-e4fa7ffac333dec971e3e0880669c819)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 

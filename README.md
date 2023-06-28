@@ -4,7 +4,12 @@
 [Freelance](https://www.atomic82.com/)
 
 
-<iframe src='https://my.spline.design/untitled-e4fa7ffac333dec971e3e0880669c819/' frameborder='0' width='100%' height='100%'></iframe>
+import { Application } from '@splinetool/runtime';
+
+const canvas = document.getElementById('canvas3d');
+const app = new Application(canvas);
+app.load('https://prod.spline.design/SWHxHCvqcdvMtqt5/scene.splinecode');
+
 
 # Skills
 ----

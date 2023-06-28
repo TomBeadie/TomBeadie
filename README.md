@@ -4,7 +4,7 @@
 [Freelance](https://www.atomic82.com/)
 
 
-(https://unpkg.com/@splinetool/viewer@0.9.374/build/spline-viewer.js)
+<iframe src='https://my.spline.design/untitled-e4fa7ffac333dec971e3e0880669c819/' frameborder='0' width='100%' height='100%'></iframe>
 
 
 

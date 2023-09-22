@@ -6,12 +6,12 @@
 
 # Skills
 ----
-![Webflow](https://a11ybadges.com/badge?logo=webflow)
-![Framer](https://a11ybadges.com/badge?logo=framer)
+![React](https://a11ybadges.com/badge?logo=react)
 ![Figma](https://a11ybadges.com/badge?logo=figma)
 ![HTML5](https://a11ybadges.com/badge?logo=html5)
 ![CSS3](https://a11ybadges.com/badge?logo=css3)
 ![JavaScript](https://a11ybadges.com/badge?logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Adobe Lightroom](https://a11ybadges.com/badge?logo=adobelightroom)
 ![Adobe Photoshop](https://a11ybadges.com/badge?logo=adobephotoshop)
 ![Adobe Illustrator](https://a11ybadges.com/badge?logo=adobeillustrator)
@@ -22,8 +22,8 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![WordPress](https://a11ybadges.com/badge?logo=wordpress)
-![React](https://a11ybadges.com/badge?logo=react)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Webflow](https://a11ybadges.com/badge?logo=webflow)
+![Framer](https://a11ybadges.com/badge?logo=framer)
 
 # Learning
 ----

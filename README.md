@@ -3,7 +3,7 @@
 
 [Freelance](https://www.atomic82.com/)
 
-![Spinning A92 animation](<iframe src='https://my.spline.design/untitled-d982909dd6c08caa9fa5d6cc3f5eda1f/' frameborder='0' width='100%' height='100%'></iframe>)
+![Spinning A92 animation]([<iframe src='https://my.spline.design/untitled-d982909dd6c08caa9fa5d6cc3f5eda1f/' frameborder='0' width='100%' height='100%'></iframe>](https://my.spline.design/untitled-d982909dd6c08caa9fa5d6cc3f5eda1f/))
 
 
 # Skills

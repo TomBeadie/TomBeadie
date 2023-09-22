@@ -1,7 +1,7 @@
 
 [Freelance](https://www.atomic92.us/)
 
-![A92 animation]([https://prod.spline.design/odWliKtBV5sCCPe8/scene.splinecode](https://app.spline.design/file/2de4a4ff-0171-444c-809f-104fdce3c1a0))
+[A92 animation](https://prod.spline.design/odWliKtBV5sCCPe8/scene.splinecode")
 
 
 # Skills

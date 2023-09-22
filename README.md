@@ -1,9 +1,7 @@
 
-[Portfolio](https://www.tombeadie.com/)
+[Freelance](https://www.atomic92.us/)
 
-[Freelance](https://www.atomic82.com/)
-
-[A92 animation](https://my.spline.design/untitled-d982909dd6c08caa9fa5d6cc3f5eda1f/)
+![A92 animation](https://my.spline.design/untitled-d982909dd6c08caa9fa5d6cc3f5eda1f/)
 
 
 # Skills

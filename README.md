@@ -3,7 +3,8 @@
 
 [Freelance](https://www.atomic82.com/)
 
-![Spinning A92 animation](https://prod.spline.design/odWliKtBV5sCCPe8/scene.splinecode)
+![Spinning A92 animation](<script type="module" src="https://unpkg.com/@splinetool/viewer@0.9.455/build/spline-viewer.js"></script>
+<spline-viewer url="https://prod.spline.design/odWliKtBV5sCCPe8/scene.splinecode"></spline-viewer>)
 
 
 # Skills

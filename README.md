@@ -10,6 +10,7 @@ Atomic92, my freelance biz
 ----
 ![React](https://a11ybadges.com/badge?logo=react)
 ![Vite](https://a11ybadges.com/badge?logo=vite)
+![Next.js](https://a11ybadges.com/badge?logo=nextdotjs)
 ![Figma](https://a11ybadges.com/badge?logo=figma)
 ![HTML5](https://a11ybadges.com/badge?logo=html5)
 ![CSS3](https://a11ybadges.com/badge?logo=css3)

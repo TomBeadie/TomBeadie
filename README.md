@@ -2,12 +2,8 @@
 
 [3D Logo (worth the click)](https://my.spline.design/untitled-d982909dd6c08caa9fa5d6cc3f5eda1f/)
 
-
 # Skills
 ----
-![React](https://a11ybadges.com/badge?logo=react)
-![Vite](https://a11ybadges.com/badge?logo=vite)
-![Next.js](https://a11ybadges.com/badge?logo=nextdotjs)
 ![Figma](https://a11ybadges.com/badge?logo=figma)
 ![HTML5](https://a11ybadges.com/badge?logo=html5)
 ![CSS3](https://a11ybadges.com/badge?logo=css3)
@@ -17,20 +13,16 @@
 ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Node.js](https://a11ybadges.com/badge?logo=nodedotjs)
+![Adobe Lightroom](https://a11ybadges.com/badge?logo=adobelightroom)
+![Adobe Photoshop](https://a11ybadges.com/badge?logo=adobephotoshop)
+![Adobe Illustrator](https://a11ybadges.com/badge?logo=adobeillustrator)
+![Adobe XD](https://a11ybadges.com/badge?logo=adobexd)
 
 # No/low Code
 ----
 ![WordPress](https://a11ybadges.com/badge?logo=wordpress)
 ![Webflow](https://a11ybadges.com/badge?logo=webflow)
 ![Framer](https://a11ybadges.com/badge?logo=framer)
-
-# Expensive Subscriptions
-----
-![Adobe Lightroom](https://a11ybadges.com/badge?logo=adobelightroom)
-![Adobe Photoshop](https://a11ybadges.com/badge?logo=adobephotoshop)
-![Adobe Illustrator](https://a11ybadges.com/badge?logo=adobeillustrator)
-![Adobe XD](https://a11ybadges.com/badge?logo=adobexd)
 
 # Environment
 ----
@@ -39,6 +31,13 @@
 ![Slack](https://a11ybadges.com/badge?logo=slack)
 ![Notion](https://a11ybadges.com/badge?logo=notion)
 ![Signal](https://a11ybadges.com/badge?logo=signal)
+
+# Learning
+----
+![React](https://a11ybadges.com/badge?logo=react)
+![Vite](https://a11ybadges.com/badge?logo=vite)
+![Next.js](https://a11ybadges.com/badge?logo=nextdotjs)
+![Node.js](https://a11ybadges.com/badge?logo=nodedotjs)
 
 # Work
 ----

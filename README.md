@@ -2,9 +2,6 @@
 
 [3D Logo (worth the click)](https://my.spline.design/untitled-d982909dd6c08caa9fa5d6cc3f5eda1f/)
 
-Atomic92, my freelance biz 
-
-[A92](https://www.atomic92.us/) 
 
 # Skills
 ----

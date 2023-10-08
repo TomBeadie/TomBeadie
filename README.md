@@ -12,7 +12,6 @@
 ![HTML5](https://a11ybadges.com/badge?logo=html5)
 ![CSS3](https://a11ybadges.com/badge?logo=css3)
 ![JavaScript](https://a11ybadges.com/badge?logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Bootstrap](https://a11ybadges.com/badge?logo=bootstrap)
 ![Sass](https://a11ybadges.com/badge?logo=sass)
 ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss)
@@ -32,10 +31,6 @@
 ![Adobe Photoshop](https://a11ybadges.com/badge?logo=adobephotoshop)
 ![Adobe Illustrator](https://a11ybadges.com/badge?logo=adobeillustrator)
 ![Adobe XD](https://a11ybadges.com/badge?logo=adobexd)
-
-# Beyond my Comprehension
-----
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 # Environment
 ----

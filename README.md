@@ -1,6 +1,6 @@
 <img width="608" alt="A92 x React" src="https://github.com/TomBeadie/TomBeadie/assets/91224202/28d7bfa7-54d3-411a-bb11-45261e1a6000"> 
 
-[3D Logo (worth the click)](https://my.spline.design/untitled-d982909dd6c08caa9fa5d6cc3f5eda1f/)
+[3D UFO]([https://my.spline.design/untitled-d982909dd6c08caa9fa5d6cc3f5eda1f/](https://my.spline.design/untitled-7863aa6d68da2b257365664d72220271/))
 
 # Skills
 ----

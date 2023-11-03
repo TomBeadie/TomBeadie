@@ -1,4 +1,4 @@
-<img width="608" alt="Portfolio icons" src="<iframe src='https://my.spline.design/untitled-72e955e2c4d524bd4f301e041d40d114/' frameborder='0' width='100%' height='100%'></iframe>"> 
+<img width="608" alt="Portfolio icons" src='https://my.spline.design/untitled-72e955e2c4d524bd4f301e041d40d114/'> 
 
 
 # Skills

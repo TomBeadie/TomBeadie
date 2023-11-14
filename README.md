@@ -13,6 +13,7 @@
 ![Vite](https://a11ybadges.com/badge?logo=vite)
 ![Angular](https://a11ybadges.com/badge?logo=angular)
 ![Next.js](https://a11ybadges.com/badge?logo=nextdotjs)
+![Node.js](https://a11ybadges.com/badge?logo=nodedotjs)
 ![Bootstrap](https://a11ybadges.com/badge?logo=bootstrap)
 ![Sass](https://a11ybadges.com/badge?logo=sass)
 ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss)
@@ -33,7 +34,6 @@
 ![Slack](https://a11ybadges.com/badge?logo=slack)
 ![Notion](https://a11ybadges.com/badge?logo=notion)
 ![Signal](https://a11ybadges.com/badge?logo=signal)
-![Node.js](https://a11ybadges.com/badge?logo=nodedotjs)
 
 # Work
 ----

@@ -22,9 +22,6 @@
 ![Adobe Photoshop](https://a11ybadges.com/badge?logo=adobephotoshop)
 ![Adobe Illustrator](https://a11ybadges.com/badge?logo=adobeillustrator)
 ![Adobe XD](https://a11ybadges.com/badge?logo=adobexd)
-
-# No/low Code
-----
 ![WordPress](https://a11ybadges.com/badge?logo=wordpress)
 ![Webflow](https://a11ybadges.com/badge?logo=webflow)
 ![Framer](https://a11ybadges.com/badge?logo=framer)

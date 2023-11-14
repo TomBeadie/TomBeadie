@@ -9,6 +9,10 @@
 ![CSS3](https://a11ybadges.com/badge?logo=css3)
 ![JavaScript](https://a11ybadges.com/badge?logo=javascript)
 ![Python](https://a11ybadges.com/badge?logo=python)
+![React](https://a11ybadges.com/badge?logo=react)
+![Vite](https://a11ybadges.com/badge?logo=vite)
+![Angular](https://a11ybadges.com/badge?logo=angular)
+![Next.js](https://a11ybadges.com/badge?logo=nextdotjs)
 ![Bootstrap](https://a11ybadges.com/badge?logo=bootstrap)
 ![Sass](https://a11ybadges.com/badge?logo=sass)
 ![Tailwind CSS](https://a11ybadges.com/badge?logo=tailwindcss)
@@ -32,12 +36,6 @@
 ![Slack](https://a11ybadges.com/badge?logo=slack)
 ![Notion](https://a11ybadges.com/badge?logo=notion)
 ![Signal](https://a11ybadges.com/badge?logo=signal)
-
-# Learning
-----
-![React](https://a11ybadges.com/badge?logo=react)
-![Vite](https://a11ybadges.com/badge?logo=vite)
-![Next.js](https://a11ybadges.com/badge?logo=nextdotjs)
 ![Node.js](https://a11ybadges.com/badge?logo=nodedotjs)
 
 # Work

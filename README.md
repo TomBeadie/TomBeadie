@@ -1,9 +1,3 @@
-
-
-
-https://github.com/TomBeadie/TomBeadie/assets/91224202/2724a195-5c53-475e-acad-0cf23e5301e4
-
-
 [Portfolio/Personal Site](https://www.tombeadie.com/)
 
 # Skills

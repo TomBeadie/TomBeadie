@@ -8,7 +8,6 @@
 ![HTML5](https://a11ybadges.com/badge?logo=html5)
 ![CSS3](https://a11ybadges.com/badge?logo=css3)
 ![JavaScript](https://a11ybadges.com/badge?logo=javascript)
-![Python](https://a11ybadges.com/badge?logo=python)
 ![React](https://a11ybadges.com/badge?logo=react)
 ![Vite](https://a11ybadges.com/badge?logo=vite)
 ![Angular](https://a11ybadges.com/badge?logo=angular)

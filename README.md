@@ -9,6 +9,7 @@
 ![HTML5](https://a11ybadges.com/badge?logo=html5)
 ![CSS3](https://a11ybadges.com/badge?logo=css3)
 ![JavaScript](https://a11ybadges.com/badge?logo=javascript)
+![jQuery](https://a11ybadges.com/badge?logo=jquery)
 ![React](https://a11ybadges.com/badge?logo=react)
 ![Vite](https://a11ybadges.com/badge?logo=vite)
 ![Angular](https://a11ybadges.com/badge?logo=angular)

@@ -1,5 +1,6 @@
 
-![Github image](https://github.com/TomBeadie/TomBeadie/assets/91224202/5388c782-a8a0-46e5-b346-d8ebc59b6d0c)
+<img width="1280" alt="Github image" src="https://github.com/TomBeadie/TomBeadie/assets/91224202/f163bec2-17e4-4ba3-bd28-13cc80623d8b">
+
 
 [Portfolio/Personal Site](https://www.tombeadie.com/)
 

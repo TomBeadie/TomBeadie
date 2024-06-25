@@ -2,8 +2,6 @@
 <img width="1280" alt="Github image" src="https://github.com/TomBeadie/TomBeadie/assets/91224202/f163bec2-17e4-4ba3-bd28-13cc80623d8b">
 
 
-[Portfolio/Personal Site](https://www.tombeadie.com/)
-
 # Skills
 ----
 ![Figma](https://a11ybadges.com/badge?logo=figma)

@@ -5,15 +5,18 @@
 
 # Skills
 ----
-![Figma](https://a11ybadges.com/badge?logo=figma)
-![Webflow](https://a11ybadges.com/badge?logo=webflow)
 ![HTML5](https://a11ybadges.com/badge?logo=html5)
 ![CSS3](https://a11ybadges.com/badge?logo=css3)
 ![JavaScript](https://a11ybadges.com/badge?logo=javascript)
+![TypeScript](https://a11ybadges.com/badge?logo=typescript)
 ![React](https://a11ybadges.com/badge?logo=react)
 ![Vite](https://a11ybadges.com/badge?logo=vite)
+![Node.js](https://a11ybadges.com/badge?logo=nodedotjs)
+![Redux](https://a11ybadges.com/badge?logo=redux)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://a11ybadges.com/badge?logo=figma)
+![Webflow](https://a11ybadges.com/badge?logo=webflow)
 ![Adobe Lightroom](https://a11ybadges.com/badge?logo=adobelightroom)
 ![Adobe Photoshop](https://a11ybadges.com/badge?logo=adobephotoshop)
 ![Adobe Illustrator](https://a11ybadges.com/badge?logo=adobeillustrator)
